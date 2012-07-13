@@ -1,5 +1,6 @@
 MVC-Express
 ============
 
-The project name has changed to json-api-framework to better represent the functionality (i.e. no views).
+The project name has changed to node-jfk.
+
 [node-jfk](https://github.com/pixelshaded/node-jfk)
